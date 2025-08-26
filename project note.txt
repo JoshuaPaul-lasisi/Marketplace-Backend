@@ -1,0 +1,23 @@
+26.08.2025 (23:13 HRS)
+
+So I intend to get into backend development from data science since the world of data feels too abstract for me and more because I have always wanted to be a backend engineer...lol.
+
+I decided to do a kinf of on the job earning where I build projects and in building these projects I will learn the necessary skills to be an actual backend dev.
+
+I am taking this approach because Ialready know python and sql (postgres) well. and i already know how to use docker and security (.env) to an extent so I don't want to get into the spiral of learning and never applying.
+you get what i mean, yeah?
+
+Now now,
+
+I curated about 4 projects using chatgpt and gemini (cos they can do those kinda things for me) and put myself under a 3-month embargo of some sort...kekeke
+that is just to push myself cos i prefer to work that way.
+
+Now I'm starting this project.
+that's obvious since i created a github repo for it. you're smart.
+
+Then upon starting this one I looked at the aim of the project and it just seemed bland to me for a real-world project. Like is this really a project that will solve a need?
+Turns out i had fallen into the trap of thinking that i am good enough to solve real projects when i don't even have personal proof that i can build any backend project at all.
+
+Now I'm humble. I'll do this one even though its basically a replica of jumia, konga, etsy and it's brethren...even temu (damn it)
+
+So let's get to it. It's the start of something new I guess
