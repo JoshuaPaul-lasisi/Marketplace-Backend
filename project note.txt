@@ -21,3 +21,13 @@ Turns out i had fallen into the trap of thinking that i am good enough to solve 
 Now I'm humble. I'll do this one even though its basically a replica of jumia, konga, etsy and it's brethren...even temu (damn it)
 
 So let's get to it. It's the start of something new I guess
+
+
+----
+----
+
+27.08.2025 (21:18 HRS)
+
+I've gone through some videos by Dennis Ivy on Django but I think it'll be better to follow along withone video and get a hang of it since that is what I will be using primarily. I need to take some time to properly learn django and DRF.
+
+The advantage of this on-the-job learning is seeing what I need to learn, learning it and utilizing it immediately.
