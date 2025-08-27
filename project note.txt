@@ -31,3 +31,5 @@ So let's get to it. It's the start of something new I guess
 I've gone through some videos by Dennis Ivy on Django but I think it'll be better to follow along withone video and get a hang of it since that is what I will be using primarily. I need to take some time to properly learn django and DRF.
 
 The advantage of this on-the-job learning is seeing what I need to learn, learning it and utilizing it immediately.
+
+I've seen how to start the project so I decided to apply that today. We're in!
