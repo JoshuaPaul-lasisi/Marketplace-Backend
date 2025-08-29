@@ -40,3 +40,8 @@ I've seen how to start the project so I decided to apply that today. We're in!
 29.08.2025 (23:03 HRS)
 
 Now I'm setting up a django project from scratch with all the initial dependencies
+
+Next step is creating a django app for the users of the marketplace, add it to the INSTALLED_APPS along with the rest framework and the json web token package.
+I'll check if it's there with runserver. Didn't work.
+
+Meanwhile, I should add a products page. And one for orders and payments too.
