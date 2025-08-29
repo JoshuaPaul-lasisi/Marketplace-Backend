@@ -45,3 +45,5 @@ Next step is creating a django app for the users of the marketplace, add it to t
 I'll check if it's there with runserver. Didn't work.
 
 Meanwhile, I should add a products page. And one for orders and payments too.
+Tried checking the admin page. Turnss out I need a username and password. Didn't know I needed to create a superuser.
+Well, now I know!
