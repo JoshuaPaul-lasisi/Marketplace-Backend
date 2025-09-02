@@ -47,3 +47,15 @@ I'll check if it's there with runserver. Didn't work.
 Meanwhile, I should add a products page. And one for orders and payments too.
 Tried checking the admin page. Turnss out I need a username and password. Didn't know I needed to create a superuser.
 Well, now I know!
+
+
+---
+---
+
+01.09.2025 (22:13 HRS) - 02.09.2025 (01:30HRS)
+
+But it's better now. I get it now.
+
+Now I'd deal with the database schema next. Django uses models for this since models are a python class that represents database tables.
+
+Well, upi've not finished thetruth for to fast. To be continued from order/models.py
