@@ -77,3 +77,15 @@ After migrations I couldn't still login to django admin. StackOverflow says I ne
 
 I've created the superuser. Let's run it.
 It works!!!
+
+Next is to setup the authentication for JWT
+
+then the serializers, views and urls for my users and add it to the marketplace.
+
+In trying to test the users I had to make corrections and all of them were typo errors!
+
+Damn!
+
+I need to be careful.
+
+Anyway, the tests passed!
