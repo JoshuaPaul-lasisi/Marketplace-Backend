@@ -1,14 +1,16 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser 
 
-class user(AbstractUser):
-    USER_TYPES = (
+USER_TYPES = [
         ('customer', 'Customer'),
         ('vendor', 'Vendor'),
         ('admin', 'Admin'),
-    )
-    user_type = models.CharField(maax_length = 10, choices=USER_TYPES, default = 'customer')
-    email = models.EmailFIeld(unique=True, db_index=True)
+    ]
+
+class User(AbstractUser):
+    
+    user_type = models.CharField(max_length = 10, choices=USER_TYPES, default = 'customer')
+    email = models.EmailField(unique=True, db_index=True)
 
     REQUIRED_FIELDS = ['email']
     

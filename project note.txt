@@ -58,4 +58,22 @@ But it's better now. I get it now.
 
 Now I'd deal with the database schema next. Django uses models for this since models are a python class that represents database tables.
 
-Well, upi've not finished thetruth for to fast. To be continued from order/models.py
+Well, upi've not finished the truth for to fast. To be continued from order/models.py
+
+
+
+---
+---
+
+
+07.09.2025
+
+Been a long time since I wrote any code. I've been down and lazy at the same time. 
+Well, we move!
+
+I saw that I made a typo in my users.models file so I corrected it but I want to create the models for the orders, payments and products before I migrate.
+
+After migrations I couldn't still login to django admin. StackOverflow says I need to create a superuser
+
+I've created the superuser. Let's run it.
+It works!!!
