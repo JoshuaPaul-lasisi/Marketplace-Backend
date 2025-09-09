@@ -89,3 +89,20 @@ Damn!
 I need to be careful.
 
 Anyway, the tests passed!
+
+---
+---
+
+08.09.2025
+
+Next step for me is to work on the products and inventory so as tot have something for the users to select from and fro vendors to upload.
+I should add update tracker so I can track changes made and focus the vendor relationship on the products table.
+
+I had to create a permissions script so I can standarize constraints and restrictions.
+
+This is a steep learning curve for me but I am willing to go deeper and deeper till I reach the base.
+
+I've completed the products model now after using chatgpt to solve the errors repeatedly.
+
+I'll be studying more for the mean time so I truly internalize what I have encountered so far.
+
