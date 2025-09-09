@@ -102,7 +102,7 @@ I had to create a permissions script so I can standarize constraints and restric
 
 This is a steep learning curve for me but I am willing to go deeper and deeper till I reach the base.
 
-I've completed the products model now after using chatgpt to solve the errors repeatedly.
+I've completed the products app now after using chatgpt to solve the errors repeatedly.
 
 I'll be studying more for the mean time so I truly internalize what I have encountered so far.
 
